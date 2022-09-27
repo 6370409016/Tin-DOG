@@ -158,6 +158,11 @@ p {
   margin: 20px 10px;
 }
 
+.anchor-link{
+  text-decoration: none;
+  color:#100F0F;
+}
+
 /* @media query section */
 @media (max-width:1039px) {
   #features {
